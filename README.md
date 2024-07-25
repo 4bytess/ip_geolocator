@@ -8,5 +8,6 @@ This tool is a python3 script that uses ipgeolocation.io API to geolocate and di
 
 ### Parameters:
 
-> `-i <ip_address>` Specify the IP address
+> `-i <ip_address>` Specify the IP address.
+
 > `-k <API_Key>` Specify your ipgeolocation.io API Key. This parameter is optional, you can use it or directly hardcode your API Key inside the script code.
